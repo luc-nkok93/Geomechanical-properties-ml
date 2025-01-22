@@ -12,8 +12,12 @@ This repository contains the machine learning models and scripts developed for t
 
 ## Repository Contents
 - `data/`: Folder containing sample datasets (replace with a placeholder or instructions to download).
-- `scripts/`: Python scripts for data preprocessing, training, and evaluation.
+- Python script for data preprocessing and cleaning are provided in the DTR_predict Vp Vs-1.py file, then implementation of the decision tree algorithm followed by evaluation. The respective scripts are name according to the algorithm used for training and evaluation.
 - `example_test.py`: A sample test script demonstrating the prediction process.
+- A sample dataset (`sample_data.csv`) is provided in this repository for demonstration purposes. It contains the following columns:
+- Depth, Gamma Ray, Density, Porosity, AT90, NPHI, DTCO, DTSM
+
+The full dataset used in the study is too large but follows the same structure. The full dataset is provided as '20457_HOVDEN_Data_for_Geomech' a CSV file
 - `README.md`: Repository overview and usage instructions.
 
 ## Requirements
