@@ -11,7 +11,7 @@ This repository contains the machine learning models and scripts developed for t
 - Calculation of geomechanical properties using empirical equations.
 
 ## Repository Contents
-- `data/`: Folder containing sample datasets (replace with a placeholder or instructions to download).
+
 - Python script for data preprocessing and cleaning are provided in the DTR_predict Vp Vs-1.py file, then implementation of the decision tree algorithm followed by evaluation. The respective scripts are name according to the algorithm used for training and evaluation.
 - `example_test.py`: A sample test script demonstrating the prediction process.
 - A sample dataset (`sample_data.csv`) is provided in this repository for demonstration purposes. It contains the following columns:
